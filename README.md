@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ridwan
 ================================================================================================================================
 
-Fullstack Developer (BE heavy)
+Fullstack Developer & Blockchain Engineer
 ------------------------------
 
-A fullstack developer with 7years of experience creating clean user interfaces and web applications using JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
+A fullstack developer with 7years of experience creating clean user interfaces and web2 and web3 applications using NodeJs, Typescript, Solidity, JavaScript, ReactJs, VueJS, Laravel and ​other frameworks. <br> Making magic is worth it 🪄. <br> I'm committed to writing clean and reusable codes while building fast and scalable web applications. ​
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [abbeville13@gmail.com](mailto:abbeville13@gmail.com)
