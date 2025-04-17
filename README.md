@@ -1,5 +1,5 @@
 <span style="color:#FF5733">⚔️ RIDWAN | CODE NINJA ⚔️</span>
-Show Image
+(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 🥷 Shadow Warrior of the Full Stack & Blockchain Realm
 「 7+ years of mastering the ancient arts of clean interfaces and scalable applications 」
 A master of both visible and invisible techniques, I strike with precision using NodeJs, Typescript, Solidity, JavaScript, ReactJs, VueJS, Laravel and other powerful scrolls.
